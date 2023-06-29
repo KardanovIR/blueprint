@@ -19,7 +19,7 @@ import {
     OpenedContract,
     SendMode,
     StateInit,
-} from 'ton-core';
+} from '@ton/core';
 import { SendProvider } from './SendProvider';
 import { keyPairFromSecretKey } from 'ton-crypto';
 import { UIProvider } from '../../ui/UIProvider';

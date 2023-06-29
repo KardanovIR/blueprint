@@ -16,7 +16,7 @@ import {
     SendMode,
     toNano,
     TupleItem,
-} from 'ton-core';
+} from '@ton/core';
 import { TonClient4 } from 'ton';
 import { getHttpV4Endpoint } from '@orbs-network/ton-access';
 import { UIProvider } from '../ui/UIProvider';
